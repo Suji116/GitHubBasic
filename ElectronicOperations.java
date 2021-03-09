@@ -1199,6 +1199,7 @@ class ElectronicOperations extends OnlineShopping
                 System.out.println("Sorry the Product "+X+" is not available");
                 System.out.println("Please select the available Products");
                 ELC.Shopping(1);
+                System.out.print("I am Done");
                 break;
         
             }
